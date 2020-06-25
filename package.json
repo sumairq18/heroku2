@@ -1,0 +1,22 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "This example is so cool.",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jane-doe",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.8",
+    "http-server": "^0.12.3"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
